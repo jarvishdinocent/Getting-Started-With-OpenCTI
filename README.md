@@ -54,10 +54,16 @@ Your contributions are the fuel for this Odyssey! Whether it's a typo fix, a new
 ⚡ Quick Start (for the Impatient Explorer)
 If you're eager to get OpenCTI up and running immediately, here's the absolute minimum to get started with Docker Compose:
 
-Clone this repository:
+First, create your GitHub repository! Go to github.com/new and create a new public repository named opencti-learning-resource.
 
-git clone https://github.com/jarvishdinocent/opencti-learning-resource.git
+Clone your newly created repository:
+
+git clone https://github.com/your-new-username/opencti-learning-resource.git
 cd opencti-learning-resource
+
+(IMPORTANT: Replace your-new-username with your actual current GitHub username!)
+
+Add this README.md content to the README.md file in the root of your cloned repository, then commit and push your changes.
 
 Navigate to the installation guide:
 
